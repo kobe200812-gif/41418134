@@ -1,0 +1,21 @@
+body {
+    background-color: #fffacd;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 36pt;
+}
+
+.content {
+    color: brown;
+    font-size: 24pt;
+    line-height: 1.6;
+}
+
+.portrait {
+    width: 200px;
+    border: 3px solid saddlebrown;
+    border-radius: 20px;
+}
